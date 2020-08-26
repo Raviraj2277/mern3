@@ -12,3 +12,7 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
+.row 
+{
+    padding: 75x 75px 75px px;
+}
